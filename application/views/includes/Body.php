@@ -16,7 +16,7 @@
             <li><a href="Cadastro">Cadastrar</a></li>
             <li><a href="Addprofessor">Adicionar professor</a></li>
             <li><a href="Classprofessores">Classificar professores</a></li>
-            <li><a href="#contact">Relatorios</a></li>
+            <li><a href="Relatorio">Relatorios</a></li>
           </ul>
         </div><!--/.nav-collapse -->
       </div>
